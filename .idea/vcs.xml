@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CodechefEventsApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NavigationComponentTutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reference Apps/CPing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reference Apps/Codeforces-Visualizer-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reference Apps/codephile-mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SafeArgsNavgiation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tutorials/BottomNavBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tutorials/BottomNavigationBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tutorials/MVVMPractice_Room+Retrofit" vcs="Git" />
+  </component>
+</project>
